@@ -75,6 +75,4 @@
 
 *"Data is more → AI is smarter"*
 
-*Written on my whiteboard 4 months before I proved it.*
-
 </div>
