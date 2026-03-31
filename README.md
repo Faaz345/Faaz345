@@ -23,7 +23,7 @@
 
 ### ⚡ Currently Building
 
-**MINDI 1.5** — Production-grade coding LLM trained on 1M high quality samples. Targeting Replit AI level code generation. Running on AMD MI300X for the [AMD Developer Hackathon](https://lablab.ai/ai-hackathons/amd-developer) · May 2025
+**MINDI 1.5** — Production-grade coding LLM trained on 1M high quality samples. Targeting Replit AI level code generation. Running on AMD MI300X for the [AMD Developer Hackathon](https://lablab.ai/ai-hackathons/amd-developer) · May 2026
 
 ---
 
